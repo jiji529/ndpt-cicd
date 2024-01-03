@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1440 1265" style="enable-background:new 0 0 1440 1265;" xml:space="preserve">
+    <style type="text/css">
+        .st0 {
+            opacity: 0.5;
+            filter:url(#a);
+        }
+
+        .st1 {
+            fill-rule: evenodd;
+            clip-rule: evenodd;
+            fill: url(#SVGID_1_);
+        }
+
+        .st2 {
+            fill-rule: evenodd;
+            clip-rule: evenodd;
+            fill: url(#SVGID_00000181807905618495623340000001364826528166840481_);
+        }
+
+        .st3 {
+            fill-rule: evenodd;
+            clip-rule: evenodd;
+            fill: url(#SVGID_00000093864605315791133970000005641321059171778732_);
+            filter:url(#b);
+
+        }
+
+        .st4 {
+            fill-rule: evenodd;
+            clip-rule: evenodd;
+            fill: url(#SVGID_00000121964941633770664640000002406904853678154670_);
+
+        }
+    </style>
+    <filter xmlns="http://www.w3.org/2000/svg" filterUnits="objectBoundingBox" height="475%" id="a" width="147.2%" x="-23.6%" y="-187.5%">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="50" />
+    </filter>
+    <filter xmlns="http://www.w3.org/2000/svg" filterUnits="objectBoundingBox" height="175%" id="b" width="147.2%" x="-23.6%" y="-187.5%">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="50" />
+    </filter>
+    <g class="st0">
+        <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-715.3243" y1="1172.5945" x2="-715.8977" y2="1172.5945" gradientTransform="matrix(854.0001 0 0 -438.5 611854 514487.5)">
+            <stop offset="0" style="stop-color:#086FFF" />
+            <stop offset="1" style="stop-color:#086FFF;stop-opacity:0" />
+        </linearGradient>
+        <polygon class="st1" points="430.8,384.2 424.9,502 970.6,225.4 976.5,107.6 	" />
+    </g>
+    <g class="st0">
+
+        <linearGradient id="SVGID_00000022540918294755388860000000210456733881492408_" gradientUnits="userSpaceOnUse" x1="-714.3506" y1="1171.4054" x2="-715.0157" y2="1171.4054" gradientTransform="matrix(596.7049 -217.1828 -27.3616 -75.1754 459631.4688 -66495.0234)">
+            <stop offset="0" style="stop-color:#FFDDB7" />
+            <stop offset="1" style="stop-color:#FFDDB7;stop-opacity:0" />
+        </linearGradient>
+
+        <polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000022540918294755388860000000210456733881492408_);" points="
+		913.3,727.4 909.2,814.7 1295.2,609.7 1299.3,522.4 	" />
+    </g>
+    <g class="st0">
+
+        <linearGradient id="SVGID_00000012459619187780323790000000025938176325017022_" gradientUnits="userSpaceOnUse" x1="-714.9971" y1="1175.9683" x2="-715.6129" y2="1175.9683" gradientTransform="matrix(596.7049 -217.1828 -27.3616 -75.1754 459364.4688 -66122.0234)">
+            <stop offset="0" style="stop-color:#AEE5DB;stop-opacity:0" />
+            <stop offset="0.1899" style="stop-color:#AEE5DB" />
+            <stop offset="0.8715" style="stop-color:#AEE5DB;stop-opacity:0" />
+        </linearGradient>
+
+        <polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000012459619187780323790000000025938176325017022_);" points="
+		168.8,890.7 164.9,978.1 523.2,773.1 527.1,685.7 	" />
+    </g>
+    <g class="st0">
+        <linearGradient id="SVGID_00000019668826456561033930000008596212810497654441_" gradientUnits="userSpaceOnUse" x1="-715.0849" y1="1170.3262" x2="-715.6107" y2="1170.3262" gradientTransform="matrix(596.7049 -217.1828 -27.3616 -75.1754 459491.4688 -67160.0234)">
+            <stop offset="0" style="stop-color:#5DCFFF" />
+            <stop offset="1" style="stop-color:#5DCFFF;stop-opacity:0" />
+        </linearGradient>
+
+        <polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000019668826456561033930000008596212810497654441_);" points="
+		451.9,275.4 448.6,346.6 751.2,179.5 754.4,108.3 	" />
+    </g>
+</svg>
