@@ -222,7 +222,7 @@ News data from multiple broadcasters, including the three major terrestrial netw
 
 
 
-        <section class="sec6 reveal">
+        <section class="sec6 reveal" id="call">
             <div class="inner">
                 <div class="sec-tit">Contact Us</div>
                 <div class="sec-txt">Please fill out the form below and we'll get back to you as soon as possible.</div>
@@ -312,6 +312,10 @@ News data from multiple broadcasters, including the three major terrestrial netw
             </div>
         </footer>
     </div>    
+    <div class="float">
+        <div class="float-li"><a href="#call"><i class="ri-headphone-line"></i></a></div>
+        <div class="float-li"><a href="#"><i class="ri-arrow-up-line"></i></a></div>
+    </div>
 </body>
 </template>
 

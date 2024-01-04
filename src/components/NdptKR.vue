@@ -233,7 +233,7 @@
 
 
 
-        <section class="sec6 reveal">
+        <section class="sec6 reveal" id="call">
             <div class="inner">
                 <div class="sec-tit">문의하기</div>
                 
@@ -301,7 +301,7 @@
                 
                 <div class="f_top">
                     <div class="txt">사업자등록번호 : 112-81-49789 대표이사 : 박용립<br>
-                        (주)다하미커뮤니케이션즈. 서울특별시 중구 마른내로 140, 5층 (쌍림동, 인쇄정보센터 )<br>
+                        (주)다하미커뮤니케이션즈. 서울특별시 중구 마른내로 140, 5층 (쌍림동, 인쇄정보센터)<br>
                         5F, 140, Mareunnae-ro, Jung-gu, Seoul, Korea<br>
                         TEL. 02 593 4174 FAX. 02 593 4175 Email. dahamicommunications@dahami.com</div>
                     <div class="f_logo">
@@ -323,6 +323,10 @@
                 </div>
             </div>
         </footer>
+    </div>
+    <div class="float">
+        <div class="float-li"><a href="#call"><i class="ri-headphone-line"></i></a></div>
+        <div class="float-li"><a href="#"><i class="ri-arrow-up-line"></i></a></div>
     </div>
 </body>    
 </template>
