@@ -230,31 +230,31 @@ News data from multiple broadcasters, including the three major terrestrial netw
                     <dl>
                         <dt>Name</dt>
                         <dd>
-                            <input type="text" id="commuName">
+                            <input type="text" id="commuName" v-model="name">
                         </dd>
                     </dl>
                     <dl>
                         <dt>Phone Number</dt>
                         <dd>
-                            <input type="text" class="num" id="Num" oninput="this.value = this.value.replace(/[^0-9.]/g, '')">
+                            <input type="text" class="num" id="Num" v-model="phone" oninput="this.value = this.value.replace(/[^0-9.]/g, '')">
                         </dd>
                     </dl>
                     <dl>
                         <dt>Company Name</dt>
                         <dd>
-                            <input type="text" class="comp" id="comp">
+                            <input type="text" class="comp" id="comp" v-model="comp">
                         </dd>
                     </dl>
                     <dl>
                         <dt>Email</dt>
                         <dd>
-                            <input type="text" class="mail" id="mail" oninput="this.value = this.value.replace(/[^0-9a-zA-Z@.]/g, '');">
+                            <input type="text" class="mail" id="mail" v-model="email" oninput="this.value = this.value.replace(/[^0-9a-zA-Z@.]/g, '');">
                         </dd>
                     </dl>
                     <dl>
                         <dt class="main_cont">Description</dt>
                         <dd class="main_cont">
-                            <textarea id="commuContents"></textarea>
+                            <textarea id="commuContents" v-model="contents"></textarea>
                         </dd>
                     </dl>
                 </div>
@@ -274,11 +274,11 @@ News data from multiple broadcasters, including the three major terrestrial netw
                 </div>
                 <div class="agree_check">
                     <p>
-                        <input id="agree" type="checkbox">
+                        <input id="agree" type="checkbox" v-model="chkflag">
                         <label for="agree">I agree to the collection and use of personal information.</label>
                     </p>
                 </div>
-                <div class="call_send">
+                <div class="call_send" @click="emailSend">
                     <p class="btn">Contact Us</p>
                 </div>
 
