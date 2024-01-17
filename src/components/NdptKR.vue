@@ -72,8 +72,7 @@
                             <div class="box1-num color1">04</div>
                             <div class="box1-tit">AI 학습에 최적화된 데이터 제공</div>
                             
-                            <div class="box1-txt">대형 언어 모델(LLM) 및 대형 다중유형 모델(LMM) 구축에 <br>
-                                적합하게 가공된 맞춤형 뉴스 데이터 제공
+                            <div class="box1-txt">대형 언어 모델(LLM), 대형 다중유형 모델(LMM) 및 소형 언어 모델(sLLM) 구축에 적합하게 가공된 맞춤형 뉴스 데이터 제공
                             </div>
                         </div>
                     </div>
