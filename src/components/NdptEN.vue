@@ -401,7 +401,7 @@ export default {
             var month = resdate.split(' ')[0];
             var day = resdate.split(' ')[1].split(',')[0];
             var year = resdate.split(' ')[2];
-            this.checkDate = month + "/" + day + "/" + year;              
+            this.checkDate = day + "/" + month + "/" + year;              
             // 억단위
             this.newsNum = parseInt((res.data.dataCount.articleInfo.totalCount / 1000000) 
             - (res.data.dataCount.articleInfo.totalCount / 1000000 % 100))  + "M+";
