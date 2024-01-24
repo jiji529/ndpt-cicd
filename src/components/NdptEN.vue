@@ -298,7 +298,7 @@ News data from multiple broadcasters, including the three major terrestrial netw
                     </div>
                 </div>
                 <div class="f_bottom">
-                    <div class="f_copy">Copyright ⓒ DAHAMI Corp. All Rights Reserved.</div>
+                    <div class="f_copy">Copyright Dahami Communications Inc. All Rights Reserved.</div>
                 </div>
                 <div class="f_family">
                     <div class="f_tit">Family sites</div>
